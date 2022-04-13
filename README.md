@@ -5,13 +5,17 @@ I then used the [create-instantsearch-app] to boostrap # grammys-test-app
 Using a combination of algolia doc's (Getting Started with InstantSearch,  the autocomplete.js docs, etc.) and the Algolia dashboard Index configuration, I setup search attributes of:
 
 Year (annualGrammy)
+
 Artist (name)
+
 Album/Artist (awardFor) 
+
 Award Name (category)
 
 and Filters for
 
 Year
+
 Award Name
 
 and applied some basic styling to the page and results.
