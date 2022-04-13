@@ -1,0 +1,19 @@
+body { font-family: sans-serif; padding: 1em; background-color: linen;}
+.ais-SearchBox { margin: 1em 0; }
+.ais-Pagination { margin-top: 1em }
+.left-panel { float: left; width: 260px; margin-top: 1em;	}
+.right-panel { margin-left: 280px; }
+.ais-Hits-item { margin-bottom: 1em; width: calc(25% - 1rem);background: snow; }
+.hit-year  { color: #4598e6; }
+.hit-category { margin-bottom: 0.5em;font-size: large; }
+.hit-detail { font-size: 14px; margin-bottom: 0.5em; }
+
+
+
+
+#year-range{
+    width: 90%;
+    padding-left: 12px;
+	padding-bottom: 10px;
+}
+
